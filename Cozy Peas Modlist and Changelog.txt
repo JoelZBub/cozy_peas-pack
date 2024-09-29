@@ -1,0 +1,513 @@
+Cozy Peas Modlist and Changelog
+---------------------------------------------------------
+
+
+--------------------------------------------------------------------- 
+Cozy Peas Modpack Modlist and Changelog 
+    Date : 2024/09/01
+    Pack Version :  0.2.0.0
+    Forge Version : 47.3.2 
+---------------------------------------------------------------------
+
+-- Mod Freeze List --
+--------------------
+NOTE that Supplementaries mod is labeled as 2.8.17 but is 2.8.18 on Curseforge
+
+
+
+-- Added Mods --
+------------------
+Arts and Crafts Compatibility
+Double Doors
+Forge CIT
+Naturalist Delight
+OctoLib (Dependency for Immersive UI)
+Resource Pack Overrides
+
+
+
+-- Updated Mods --
+------------------
+Advanced Chimneys
+    - 10.1.13.1 to 10.1.14.0
+Balm
+    - 7.3.7 to 7.3.9
+Better Advancements
+    - 0.3.2.161 to 0.4.2.10
+Citadel
+    - 2.5.6 to 2.6.0
+Collective
+    - 7.81 to 7.84
+Connected Glass
+    - 1.1.11 to 1.1.12
+Corpse
+    - 1.0.12 to 1.0.14
+Crabber's Delight
+    - 1.1.7 to 1.1.7a
+Creative Core
+    - 2.11.33 to 2.11.37
+Curios API
+    - 5.9.1 to 5.10.0
+Delightful
+    - 3.5.9 to 3.6
+Dramatic Doors
+    - 3.2.3 to 3.2.5
+Embeddium
+    - 0.3.29 to 0.3.31
+Entity Culling
+    - 1.6.6 to 1.7.0
+Exposure
+    - 1.7.5 to 1.7.6
+Falling Trees
+    - 0.12.5 to 0.12.7
+Forgery
+    - 3.4.18 to 3.4.20
+Framework
+    - 0.7.6 to 0.7.7
+GeckoLib
+    - 4.4.7 to 4.4.9
+Immersive UI
+    - 0.2.1 to 0.2.2
+JEI
+    - 15.12.2.48 to 15.16.2.73
+Let's Do Bakery Farm & Charm Compat
+    - 2.0.0 to 2.0.2
+Let's Do Brewery Farm & Charm Compat
+    - 2.0.1 to 2.0.3
+Let's Do Candlelight Farm & Charm Compat
+    - 2.0.0 to 2.0.2
+Let's Do Farm & Charm
+    - 1.0.1 to 1.0.3
+Little Tiles
+    - 1.6.0-pre110 to -pre119
+Lootr
+    - 0.7.34.87 to 0.7.34.89
+ModernFix
+    -      5.19.1 to 5.19.4
+Moonlight Lib
+    - 2.12.11 to 2.12.7       
+PandaLib 
+    -  0.3 to 0.4.2
+Polytone
+    - 1.18.2 to 2.3.1
+ProbeJS
+    - 7.0.1 to 6.0.1
+PuzzlesLib
+    - 8.1.21 to 8.1.22
+ResourcefulLib
+    - 2.1.28 to 2.1.29
+Rhino
+    - 2001.2.2-build18 to 2001.2.3-build6
+Smarter Farmers
+    - 1.8.3 to 2.0.1
+Sophisticated Backpacks
+    -3.20.5.1044 to 3.20.6.1064
+Sophisticated Core
+    - 0.6.22.611 to 0.6.25.632
+Sophisticated Storage
+    - 0.10.25.804 to 0.10.26.817
+Soul Fire'd
+    - 4.0.2 to 4.0.3
+supermartijn642corelib
+    - 1.1.17 to 1.1.17+a
+Supplementaries
+    - 2.8.17 to 2.8.18 (labeled 2.8.17)
+True Fishing
+    - 1.0 to 1.2
+Vintage Delight 
+    - 0.00.12 to 0.1.1
+Waystones
+    - 14.1.4 to 14.1.5
+XaeroPlus
+    - 2.21 to 2.22.3
+Xaero's World Map
+    - 1.38.8 to 1.39.0
+Xaero's Minimap
+    - 24.2.0 to 24.3.0
+
+
+-- Removed Mods --
+------------------
+
+
+
+-- Config Changes --
+--------------------
+/config/xaeroworldmap.txt
+    renderWaypoints:false
+ xaeroplus.txt
+    [XP] Waystones Sync:false
+Keybinds
+    Copy Recipe ID to clipboard
+        CTRL+C
+/config/resourcepackoverrides.json
+main menu 
+    pack version set to 0.2.0.0
+/config/bcc-common.toml
+    pack version set to 0.2.0.0
+
+
+-- Data Changes --
+------------------
+added travertin blocks as disk generation to rivers
+
+
+-- Script Changes --
+--------------------
+added bark to cozy_peas:bark tag
+farmersdelight
+    added cozy_peas:bark to recipe for farmersdelight:organic_compost
+
+
+
+-- Asset Changes --
+-------------------
+Configured resource packs
+Added custom resources to Cozy Peas resource pack
+
+--  Quest Changes --
+--------------------
+
+
+
+
+
+
+
+--------------------------------------------------------------------- 
+Cozy Peas Modpack Modlist and Changelog 
+    Date : 2024/08/13
+    Pack Version :  0.1.0.0
+    Forge Version : 47.3.2 
+---------------------------------------------------------------------
+
+-- Mod Freeze List --
+--------------------
+Vintage Delight - 0.0.12 
+    - 0.1.0 crashes both client and server 
+    https://github.com/ribs498/VintageDelight-master/issues/11
+
+
+-- Added Mods --
+------------------
+Create
+Create Copycats+
+Create Recycle Everything by nocubeyt
+Create Slice & Dice by possible_triangle
+Dramatic Doors by FizzWare
+Entity Culling
+Exposure by mortuusars
+Immersive-UI
+Kotlin for Forge by thedarkcolour
+KubeJS Create
+Let's Do Bakery - compat version
+Let's Do Brewery - compat version
+Let's Do Candelight - compat version
+Let's Do Farm & Charm
+What Are They Up To 
+
+-- Updated Mods --
+------------------
+Advancec Chimneys 
+    - 10.1.13.0-build0734 to 10.1.13.1-build0782
+Balm
+    - 7.3.6 to 7.3.7
+Collective
+    - 7.80 to 7.81
+Crabbers Delight
+    - 1.1.6 to 1.1.7
+Crafting Tweaks
+    - 18.2.4 to 18.2.5
+ Embeddium
+    - 0.3.28 to 0.3.29
+Guard Villagers
+    - 1.6.6 to 1.6.7
+JEI
+    - 15.8.2.25 to 15.12.2.48
+Kiwi
+    - 11.8.15 to 11.8 .20
+[Let's Do] BloomingNature
+    - 1.0.7 to 1.0.9
+[Let's Do] Vinery
+    - 1.4.27 to 1.4.28
+Lootr
+    - 0.7.34.86 to 0.7.34.87
+Macaw's Windows
+    - 2.2.1 to 2.3.0
+ModernFix
+    - 5.19.0 to 5.19.1
+Moonlight Lib
+    - 2.12.9 to 2.12.11
+Traveler's Compass
+    - 3.0.4a to 3.0.5
+
+
+
+-- Removed Mods --
+------------------
+Animal Feeding Trough
+Borderless Window
+CoFH Core
+Legacy Let's Do Bakery 
+Legacy Let's Do Brewery 
+Legacy Let's Do Candelight 
+Tiny Item Animations 
+
+
+-- Config Changes --
+--------------------
+kiwi lib
+	- disable (alt) in tooltip
+	- disable experimental world warnings
+truefishing/entities.json
+    - added aquaculture fishes
+    - added a few other fishes
+
+-- Data Changes --
+------------------
+
+
+-- Script Changes --
+--------------------
+letsdo/recipes.js
+    added dried wheat recipe
+minecraft/composter.js
+    added soot at 50% chance
+
+
+-- Asset Changes --
+-------------------
+New Menu Art
+
+--  Quest Changes --
+--------------------
+
+
+
+
+
+
+
+--------------------------------------------------------------------- 
+Cozy Peas Modpack Modlist and Changelog 
+    Date : 2024/08/10
+    Pack Version :  0.0.2.0
+
+    Forge Version : 47.3.2 
+---------------------------------------------------------------------
+
+-- Mod Freeze List --
+--------------------
+
+
+-- Added Mods --
+------------------
+[Let's Do Addon] Compat by Ninjdai
+[Let's Do] API by Cristelknight, BaumeisterJO
+[Let's Do] Bakery by Satisfy
+[Let's Do] Beachparty by Satisfy, BaumeisterJo, Cristelknight
+[Let's Do] BloomingNature by satisfy
+[Let's Do] Brewery by BaumeisterJO, satisfy, EC
+[Let's Do] Candlelight by satisfy_u, Cristelknight, BaumeisterJo
+[Let's Do] HerbalBrews by satisfy
+[Let's Do] Meadow
+[Let's Do] Vinery by satisfy_u, Cristelknight, BaumeisterJO
+Advanced Chimneys by EnderLanky
+Alex's Delight by NCP Bails
+alex's herps by catlo, MCreator
+Alex's Mobs by Alexthe668, Carro1001, Paint_Ninja
+Alexs Mobs Interaction by The Crimson and the Reimainder
+Ambient Additions by codyhuh, VakyPanda
+Amendments by MehVahdJukaar
+Animal Feeding Trough by Slexom
+AppleSkin by squeek
+Aquaculture 2 by Shadowclaimer, Girafi
+Aquaculture Delight by NoCube
+Architect's Palette by Snakeblock, THX, Smash Brothers, Orisghost, RENREN, Jsburg
+Architectury by shedaniel
+Arts & Crafts by KekeCreations and Arbeet!
+Ash API by Trikzon
+Athena by ThatGravyBoat
+Balm by BlayTheNinth
+Beautify by _Pandarix_
+Better Advancements by way2muchnoise
+Better Brightness Slider by LaidBackSloth
+Better Clouds by Qendolin, Cloud
+Better Compatibility Checker by Gaz
+Better village by JTorLeon Studios
+BetterF3 by TreyRuffy and cominixo
+Blur (Forge) by dima_dencep, tterrag1098, Motschen, Pyrofab, backryun, byquanton
+Bookshelf by Darkhax
+Borderless Window by Nekeras
+Bridging Mod by CG360
+Bushier Flowers by Pandarix
+Carry On by Tschipp, Purplicious_Cow, cy4n
+Chefs Delight by Redstone Games
+Chimes by BlewberryPie
+Chipped by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
+Citadel by Alexthe666
+Clean Swing Through Grass by Raycoms
+Clean Tooltips by stal111
+CleanView by zlainsama
+Client Tweaks by BlayTheNinth
+Cloth Config v10 API by shedaniel
+Cluttered by blake, MCreator
+Cobweb by Crystal Spider, Moonstone Webber, Noir
+Collective by Rick South
+Colored Water by Cozary
+Comforts by Illusive Soulworks
+Configured by MrCrayfish
+Connected Glass by SuperMartijn642
+ConsoleFilter by NgLoader, MarkKoz, ChaosTheDude
+Content Creator Integration by iChun
+Controlling by Jaredlll08
+Corn Delight by MCMOD Modding Group
+Corpse by Max Henkel
+CosmeticArmorReworked by zlainsama
+Crabber's Delight by Alabaster Leking
+CraftingTweaks by BlayTheNinth
+Crash Utilities by Darkere
+CreativeCore by CreativeMD
+Critters and Companions by Joosh, EterDelta
+Cupboard utilities by Someaddon
+Curios API by C4
+Curious Lanterns by Psilocke
+DarkModeEverywhere by Buuz135
+Decorative Blocks by Lilypuree, Stohun
+Default Options by BlayTheNinth
+Delightful by brnbrd
+DEUF - Duplicate Entity UUID Fix by CAS_ual_TY
+Don't Make Me Turn This Boat Around by Mrbysco
+Double Hotbar by sidezbros
+Drippy Loading Screen by Keksuccino
+Dustrial Decor by Blue Duck and WDSPC
+Ecologics by SameButDifferent, Zero_DSRS_VX, Drigonis, Crispytwig, Irishjevil, Foquito Azul
+Embeddium by embeddedt
+Embeddium++ by SrRapero720
+Enlightend by Owner, MuffinsQw
+Euphoria Patcher by isuewo
+Exotic Birds by Pavocado
+Explorer's Compass by ChaosTheDude
+Extreme Sound Muffler by LeoBeliik
+Fairy Lights by pau101
+Falling Leaves by Cheaterpaul, Fourmisain, BrekiTomasson and RandomMcSomethin
+FancyMenu by Keksuccino
+Farmer's Delight by vectorwing
+Farmer's Respite by Umpaz, Probleyes
+Farsight mod by Love, Cheese and small house plants
+Fast Leaf Decay by Olafski
+Fast Paintings by MehVahdJukaar
+Fast Suite by Shadows_of_Fire
+Ferrite Core by malte0811
+Flower Patch by Mrbysco, ShyNieke
+ForgeEndertech by EnderLanky
+Forgery
+Framework by MrCrayfish
+Freecam by hashalite
+Fusion by SuperMartijn642
+Game Menu Mod Option by MORIMORI0317
+GeckoLib 4 by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+Geophilic by bebebea_loste
+Goblin Traders by MrCrayfish
+Guard Villagers by TallestEgg, HadeZ/SadNya69 for the textures.
+Handcrafted by Alex Nijjar, Kekie6
+iChunUtil by iChun
+Immersive Paintings by Luke100000
+Immersive Weathering by Ordana, MehVahdJukaar, Keybounce
+InControl by McJty
+InsaneLib by Insane96MCP
+Inventory Essentials by BlayTheNinth
+Item Zoom by mezz
+Jade Addons by Snownee
+Jade by Snownee
+JEI Integration by SnowShock35
+Jump Over Fences by kreezxil, Eleksploded
+Just Enough Items by mezz
+Keep Stepping by CerbonXD
+Kiwi Library by Snownee
+Konkrete by Keksuccino
+KubeJS by LatvianModder
+Library ferret by JTorLeon Studios
+LittleTiles by CreativeMD, N247S
+LootJS by AlmostReliable
+Lootr by Noobanidus
+Macaw's Doors by Sketch Macaw & Sketch Peachy
+Macaw's Fences and Walls by Sketch Macaw & Peachy Macaw
+Macaw's Furniture by Sketch Macaw
+Macaw's Lights and Lamps by Sketch Macaw & Peachy Macaw
+Macaw's Paintings by Art made by Peachy, coded by Sketch Macaw
+Macaw's Paths and Pavings by Sketch Macaw & Peachy Macaw
+Macaw's Roofs by Sketch Macaw & Sketch Peachy
+Macaw's Trapdoors by Sketch Macaw & Peachy Macaw
+Macaw's Windows by Sketch Macaw & Peachy Macaw
+Melody by Keksuccino
+Mob Lassos by Fuzs
+ModernFix by embeddedt
+Moonlight Library by MehVahdJukaar
+More Mob Variants by nyuppo
+Mouse Tweaks by Ivan Molodetskikh (YaLTeR)
+Moving Elevators by SuperMartijn642
+Mysterious Mountain Lib by Syameimaru Zheng
+Naturalist by Starfish Studios
+Nature's Compass by ChaosTheDude
+Not Enough Recipe Book by SSKirillSS
+Ocean's Delight by Scouter456
+Oculus by NanoLive, dima_dencep, coderbot, IMS212, Justsnoopy30, FoundationGames
+OreExcavation by Funwayguy, Darkosto
+Paintings ++ by AbsolemJackdaw
+Panda's Falling Tree's by The Panda Oliver
+PandaLib by The Panda Oliver
+Path To Dirt by Insane96MCP
+Placebo by Shadows_of_Fire
+Platforms by ShetiPhian; Artwork: Fruzstrated
+Polymorph by Illusive Soulworks
+Polytone by MehVahdJukaar
+Puzzles Lib by Fuzs
+Radiant Gear by Illusive Soulworks
+Random Mob Sizes by Buecher_wurm
+Resourceful Lib by ThatGravyBoat, Epic_Oreo
+Rhino by LatvianModder, Mozilla
+Right Click Harvest by Jamalam & Various Contributors
+Rubidium Dynamic Lights by TeamDeusVult
+Saturn by AbdElAziz
+Scaffolding Drops Nearby by Rick South
+Searchables by Jaredlll08
+Serene Seasons by Adubbz, Forstride
+Sereneseasonfix by Or_OS
+ShetiPhian-Core by ShetiPhian, Artwork: Fruzstrated
+Simple Inventory Sorter by cpw
+Sit by bl4ckscor3
+Skinned Lanterns by nuxnux, evo_934
+Smarter Farmers by MehVahdJukaar
+Sooty Chimneys by mortuusars
+Sophisticated Backpacks by P3pp3rF1y, Ridanisaurus
+Sophisticated Core by P3pp3rF1y
+Sophisticated Storage by P3pp3rF1y, Ridanisaurus
+Soul Fire'd by Crystal Spider, Moonstone Webber, Noir
+Sound Physics Remastered by Sonic Ether, vlad2305m, Max Henkel, Saint
+Stack Refill by Rick South
+Straw Statues by Fuzs
+Stylish Effects by Fuzs
+SuperMartijn642's Config Library by SuperMartijn642
+SuperMartijn642's Core Lib by SuperMartijn642
+Supplementaries by MehVahdJukaar, Plantkillable
+Swampier Swamps by andrew0030
+Tiny Item Animations by Trivaxy
+TipTheScales by Jaredlll08
+Tom's Simple Storage Mod by tom5454
+Transparent by Trikzon
+Traveler's Compass by Nine
+True Fishing
+Twigs by Ninni
+Villager Names by Rick South
+Vintage Delight by Ribs
+Visuality: Reforged by LimonBlaze
+Waystones by BlayTheNinth
+Waystones Teleport Pets by precisemodpacker
+WI Zoom by Alexander01998
+Xaero's Map - Waystones Compability by precisemodpacker
+Xaero's Minimap by xaero96
+Xaero's World Map by xaero96
+XaeroPlus by rfresh2
+
+

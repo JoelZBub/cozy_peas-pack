@@ -1,0 +1,275 @@
+[
+  {
+    "entity": "minecraft:salmon",
+    "endurance": 1.0,
+    "strength": 1.2,
+    "interestChance": 0.2,
+    "spawnWeight": 20
+  },
+  {
+    "entity": "minecraft:cod",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 50
+  },
+  {
+    "entity": "minecraft:pufferfish",
+    "endurance": 1.1,
+    "strength": 0.8,
+    "interestChance": 0.07,
+    "spawnWeight": 10
+  },
+  {
+    "entity": "alexsmobs:catfish",
+    "endurance": 1.0,
+    "strength": 0.8,
+    "interestChance": 0.7,
+    "spawnWeight": 12
+  },
+  {
+    "entity": "alexsmobs:frilled_shark",
+    "endurance": 2.0,
+    "strength": 3.5,
+    "interestChance": 0.7,
+    "spawnWeight": 2
+  },
+  {
+    "entity": "alexsmobs:hammerhead_shark",
+    "endurance": 2.0,
+    "strength": 3.5,
+    "interestChance": 0.7,
+    "spawnWeight": 2
+  },
+  {
+    "entity": "aquaculture:arrau_turtle",
+    "endurance": 2.5,
+    "strength": 2.5,
+    "interestChance": 0.2,
+    "spawnWeight": 10
+  },
+  {
+    "entity": "aquaculture:arapaima",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 5
+  },
+  {
+    "entity": "aquaculture:atlantic_cod",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 10
+  },
+  {
+    "entity": "aquaculture:atlantic_halibut",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 5
+  },
+  {
+    "entity": "aquaculture:atlantic_herring",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 20
+  },
+  {
+    "entity": "aquaculture:bayad",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 6
+  },
+  {
+    "entity": "aquaculture:blackfish",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 13
+  },
+  {
+    "entity": "aquaculture:bluegill",
+    "endurance": 1.0,
+    "strength": 0.5,
+    "interestChance": 0.2,
+    "spawnWeight": 20
+  },
+  {
+    "entity": "aquaculture:boulti",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 10
+  },
+  {
+    "entity": "aquaculture:brown_trout",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 10
+  },
+  {
+    "entity": "aquaculture:brown_shrooma",
+    "endurance": 0.8,
+    "strength": 0.5,
+    "interestChance": 0.2,
+    "spawnWeight": 30
+  },
+  {
+    "entity": "aquaculture:capitaine",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 2
+  },
+  {
+    "entity": "aquaculture:carp",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 10
+  },
+  {
+    "entity": "aquaculture:catfish",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 5
+  },
+  {
+    "entity": "aquaculture:gar",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 10
+  },
+  {
+    "entity": "aquaculture:jellyfish",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 10
+  },
+  {
+    "entity": "aquaculture:minnow",
+    "endurance": 0.2,
+    "strength": 0.2,
+    "interestChance": 0.9,
+    "spawnWeight": 20
+  },
+  {
+    "entity": "aquaculture:muskellunge",
+    "endurance": 2.0,
+    "strength": 2.5,
+    "interestChance": 0.2,
+    "spawnWeight": 5
+  },
+  {
+    "entity": "aquaculture:pacific_halibut",
+    "endurance": 2.0,
+    "strength": 2.5,
+    "interestChance": 0.2,
+    "spawnWeight": 50
+  },
+  {
+    "entity": "aquaculture:perch",
+    "endurance": 2.0,
+    "strength": 2.5,
+    "interestChance": 0.2,
+    "spawnWeight": 20
+  },
+  {
+    "entity": "aquaculture:piranha",
+    "endurance": 2.0,
+    "strength": 2.5,
+    "interestChance": 0.2,
+    "spawnWeight": 50
+  },
+  {
+    "entity": "aquaculture:pink_salmon",
+    "endurance": 1.0,
+    "strength": 1.2,
+    "interestChance": 0.2,
+    "spawnWeight": 8
+  },
+  {
+    "entity": "aquaculture:pollock",
+    "endurance": 2.0,
+    "strength": 2.5,
+    "interestChance": 0.2,
+    "spawnWeight": 8
+  },
+  {
+    "entity": "aquaculture:rainbow_trout",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 6
+  },
+  {
+    "entity": "aquaculture:red_grouper",
+    "endurance": 2.0,
+    "strength": 2.5,
+    "interestChance": 0.2,
+    "spawnWeight": 6
+  },
+  {
+    "entity": "aquaculture:red_shrooma",
+    "endurance": 0.8,
+    "strength": 0.5,
+    "interestChance": 0.2,
+    "spawnWeight": 26
+  },
+  {
+    "entity": "aquaculture:smallmouth_bass",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 10
+  },
+  {
+    "entity": "aquaculture:starshell_turtle",
+    "endurance": 2.8,
+    "strength": 2.5,
+    "interestChance": 0.2,
+    "spawnWeight": 5
+  },
+  {
+    "entity": "aquaculture:synodontis",
+    "endurance": 0.8,
+    "strength": 0.5,
+    "interestChance": 0.2,
+    "spawnWeight": 20
+  },
+  {
+    "entity": "aquaculture:tambaqui",
+    "endurance": 0.8,
+    "strength": 0.5,
+    "interestChance": 0.2,
+    "spawnWeight": 6
+  },
+  {
+    "entity": "aquaculture:tuna",
+    "endurance": 2.8,
+    "strength": 2.0,
+    "interestChance": 0.2,
+    "spawnWeight": 2
+  },
+  {
+    "entity": "naturalist:bass",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 10
+  },
+  {
+    "entity": "naturalist:catfish",
+    "endurance": 1.5,
+    "strength": 1.5,
+    "interestChance": 0.2,
+    "spawnWeight": 10
+  }
+]

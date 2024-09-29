@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:river",
+  "features": "cozy_peas:disk_travertin",
+  "step": "underground_ores"
+}

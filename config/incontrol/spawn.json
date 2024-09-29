@@ -1,0 +1,8 @@
+[
+    {
+        "dimension": "minecraft:overworld",
+        "minheight": 60,
+        "mob" : ["minecraft:creeper", "minecraft:zombie", "minecraft:skeleton"],
+        "result": "deny"
+      }
+]
