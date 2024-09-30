@@ -147,10 +147,6 @@
 		#Whether Gelada Monkeys hunt small animals
 		GELADA_HUNT_ENABLED = true
 
-	[Mobs."Giant Squid"]
-		#Whether Giant Squids cannibalize on other giant squids in certain conditions
-		SQUID_CANNIBALIZE_ENABLED = true
-
 	[Mobs."Grizzly Bear"]
 		#Whether Grizzlies will not attack players when untamed
 		GRIZZLY_FRIENDLY_ENABLED = true
