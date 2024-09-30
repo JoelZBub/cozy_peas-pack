@@ -15,6 +15,7 @@ Cozy Peas Modpack Modlist and Changelog
 
 -- Added Mods --
 ------------------
+Expanded Experience (Mefisto148)
 
 
 -- Updated Mods --
