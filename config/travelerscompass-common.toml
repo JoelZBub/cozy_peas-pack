@@ -65,6 +65,10 @@
 	#Anything related to the mods in the list below will (not) be searched by compass.
 	#Example: ["alexscaves", "ae2", "minecraft"]
 	mods_filter = []
+	#Enables the slow search mode forcibly. It cannot be disabled in the game
+	forcedLazySearchMode = false
+	#Will the player in the game be able to access the HUD that displays information about the found object?
+	enableHud = true
 
 [compass-compatibility]
 	#JEI/REI interaction -> drag and drop items from the JEI/REI panel to the compass inventory

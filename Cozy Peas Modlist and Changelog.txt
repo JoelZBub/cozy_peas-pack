@@ -4,7 +4,7 @@ Cozy Peas Modlist and Changelog
 
 --------------------------------------------------------------------- 
 Cozy Peas Modpack Modlist and Changelog 
-    Date : 2024/09/29
+    Date : 2024/10/17
     Pack Version :  0.3.0.0
     Forge Version : 47.3.10
 ---------------------------------------------------------------------
@@ -15,7 +15,14 @@ Cozy Peas Modpack Modlist and Changelog
 
 -- Added Mods --
 ------------------
+Borderless Window (nimueller) - 
+Create: Balanced Flight (Angel Ring)
+Create: Food
 Expanded Experience (Mefisto148)
+GlithcCore (TheAdubbz) - dependency for Serene Seasons 9.1.0.0
+Patchouli - dependency for Alex's Mobs Interaction 4.0
+Small Ships (talhanation)
+YetAnotherConfigLib
 
 
 -- Updated Mods --
@@ -28,39 +35,55 @@ Advanced Chimneys
 Alex's Mobs
     - 1.22.8 to 1.22.9
 Alex's Mobs Interaction
-    - 3.4.1 to 3.5
+    - 3.4.1 to 3.5 to 4.0
 Amendments
-    - 1.2.8 to 1.2.11
+    - 1.2.8 to 1.2.11 to 1.2.12
 Arts & Crafts
-    - 1.1.8 to 1.1.9
+    - 1.1.8 to 1.1.9 to 1.2.0 to 1.3.0
+Arts & Crafts Compatibility
+    - 1.1.0 t0 1.2.0
+Bridging Mod
+    - 2.5.0 to 2.5.1
+Chipped
+    - 3.0.6 to 3.0.7
 Cloth Config API
     - 11.1.118 to 11.1.136
+Corpse
+    - 1.0.14 to 1.0.17
 Crabbers Delight
-    - 1.1.7a to 1.1.7b
+    - 1.1.7a to 1.1.7b to 1.1.7.c
 Create
-    - 0.5.1f to 0.5.1h
+    - 0.5.1f to 0.5.1h to 0.5.1i
 Create: Copycats+
     - 2.1.2 to 2.1.4
 Create: Slice & Dice
     - 3.2.1 to 3.3.0
 CreativeCore
-    - 2.11.37 to 2.12.15
+    - 2.11.37 to 2.12.15 to 2.12.17
 Critters and Companions
     - 2.1.6 to 2.1.7
 Curious Lanterns
     - 1.3.2 to 1.3.3
+Cyanide
+    - 4.1.0 to 4.1.1
 Dramatic Doors
     - 3.2.5 to 3.2.7_1
+Drippy Loading Screen
+    - 3.0.1 to 3.0.9
 Exposure
     - 1.7.6 to 1.7.7
+Fancy Menu
+    - 3.2.3 to 3.3.1 to 3.3.2
+Forge Endertech
+    - 11.1.4.0-0572 to 11.1.5.0-0890
 Framework
-    - 0.7.7 to 0.7.8
+    - 0.7.7 to 0.7.8 to 0.7.11
 Geophilic
     - 3.1.1 to 3.1.3
 Immersive Weathering
     - 2.0.2alpha to 2.0.3
 In Control!
-    - 9.2.6 to 9.2.7
+    - 9.2.6 to 9.2.7 to 9.2.8
 InsaneLib
     - 1.13.5 to 1.15.0
 Jade
@@ -68,13 +91,19 @@ Jade
 Jade Addons
     - 5.2.2 to 5.3.1
 JEI
-    - 15.16.2.73 to 15.19.5.99
+    - 15.16.2.73 to 15.19.5.99 to 15.20.0.104
+[Let's Do] Bakery - Farm&Charm Compat
+    - 2.0.2 to 2.0.3
+[Let's Do] Farm & Charm
+    - 1.0.3 to 1.0.4
+[Let's Do] Furniture
+    - 1.0.2 to 1.0.3
 LittleTiles
-    - pre119 to pre129
+    - pre119 to pre129 to pre131
 Moonlight Lib
-    - 2.12.17 to 2.13.2
+    - 2.12.17 to 2.13.2 to 2.13.10 to 2.13.14
 Moving Elevators
-    - 1.4.7 to 1.4.8
+    - 1.4.7 to 1.4.8 to 1.4.9
 NERB
     - 0.3 to 0.4.1
 Ore Excavation
@@ -82,27 +111,42 @@ Ore Excavation
 Path to Dirt
     - 1.7.4 to 1.7.5
 Puzzles Lib
-    - 8.1.22 to 8.1.23
+    - 8.1.22 to 8.1.23 to 8.1.24
+Polytone
+    - 2.3.1 to 2.3.3
 Random Mob Sizes
-    - 2.1.1 to 2.2.1
+    - 2.1.1 to 2.2.1 to 2.2.3
+Serene Seasons
+    - 9.0.0.46 to 9.1.0.0
+Serene Seasons Fix
+    - 1.0.8 to 1.1.0.1
 Smarter Farmers
     - 2.0.2 to 2.1.0
 Sodium/Embeddium Dynamic Lights
-    - 1.6.0 to Forge 1.0.8
+    - 1.6.0 to Forge 1.0.8 to 1.0.9
 Sophisticated Backpacks
-    - 3.20.6.1064 to 3.20.10.1109
+    - 3.20.6.1064 to 3.20.10.1109 to 3.20.11.1115
 Sophisticated Core
-    - 0.6.25.632 to 0.6.32.707
+    - 0.6.25.632 to 0.6.32.707 to 0.6.33.711 to 0.6.34.718
 Sophisticated Storage
-    - 0.10.26.817 to 0.10.41.895
+    - 0.10.26.817 to 0.10.41.895 to 0.10.42.899 to 0.10.45.912
 Soul fire'd
     - 4.0.3 to 4.0.4
+Traveler's Compass
+    - 3.0.5 to 3.1.0 to 3.1.02
 Vintage Delight
-    - 0.1.1 to 0.1.3
+    - 0.1.1 to 0.1.3 to 0.1.5
 XaeroPlus
-    - 2.22.3 to 2.24
+    - 2.22.3 to 2.24 to 2.24.4
 Xaero Minimap
-    - 24.3.0 to 24.4.0
+    - 24.3.0 to 24.4.0 to 24.5.0
+
+
+
+-- Updated Shaders --
+---------------------
+BSL - Original
+    - 8.2.09 to 8.3
 
 
 -- Removed Mods --
@@ -113,6 +157,7 @@ Xaero Minimap
 --------------------
 Removed configs from mods installed for testing that were never listed on changelog:
     World Stripper
+Set menu version number to 0.3.0.0
 
 
 -- Data Changes --
@@ -121,16 +166,16 @@ Removed configs from mods installed for testing that were never listed on change
 
 -- Script Changes --
 --------------------
+refactored kubejs folder to include src folders
 
 
 -- Asset Changes --
 -------------------
 
 
---  Quest Changes --
---------------------
-
-
+-- Known Issues --
+------------------
+Nature's Compass renders duplicate biome info on screen when dual Hotbar is enabled.
 
 
 
