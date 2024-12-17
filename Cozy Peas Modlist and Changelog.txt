@@ -84,7 +84,8 @@ bcc-common.toml
 
 -- Asset Changes --
 -------------------
-
+Overgrown Flowery GUI resource pack
+    - 1.4.5 to 1.4.7
 
 --  Quest Changes --
 --------------------
