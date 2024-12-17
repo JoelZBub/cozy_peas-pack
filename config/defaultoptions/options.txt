@@ -5,12 +5,12 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
@@ -21,7 +21,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.4243838028169013
+mouseSensitivity:0.5035211267605634
 fov:0.175
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -34,7 +34,7 @@ gamma:0.5
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:4
+guiScale:2
 particles:0
 maxFps:260
 graphicsMode:1
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["file/Better-Leaves-8.0-1.20+.zip","bushy_leaves","better_leaves","optifine_support","file/Authentic Shadows_1.20.zip","file/Copper+Color+Fix+3.1.zip","file/Better_Enderdragon.zip","file/Overgrown Flowery GUI.zip","file/Cozy_Peas_Overrides_0.1.zip"]
+resourcePacks:["vanilla","mod_resources","file/Better-Leaves-8.0-1.20+.zip","bushy_leaves","better_leaves","optifine_support","file/Authentic Shadows_1.20.zip","file/Copper+Color+Fix+3.1.zip","file/Better_Enderdragon.zip","file/Overgrown Flowery GUI.zip","file/Cozy_Peas_Overrides_0.1.zip","Forgery","Forgery grayscale","Moonlight Mods Dynamic Assets"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
