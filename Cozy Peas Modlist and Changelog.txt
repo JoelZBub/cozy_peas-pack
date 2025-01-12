@@ -59,6 +59,7 @@ Sophisticated Storage
 -- Script Changes --
 --------------------
 Added recipe processes for creating wither skeleton skulls from wither bones.
+Added uncommon skull drop to skeletons to facilitate wither skull crafting process.
 
 
 -- Asset Changes --

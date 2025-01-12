@@ -35,6 +35,12 @@
 				sheep = true
 				axolotl = true
 				slime = true
+				cow = true
+				pig = true
+				item_frame = true
+				zombified_piglin = true
+				skeleton_horse = true
+				experience_orb = true
 
 			[light_sources.settings.entities.alexsmobs]
 				flying_fish = true
@@ -59,6 +65,7 @@
 				dragonfly = true
 				dumbo_octopus = true
 				leaf_insect = true
+				otter = true
 
 			[light_sources.settings.entities.ambientadditions]
 				harlequin_shrimp = true
@@ -100,4 +107,13 @@
 
 			[light_sources.settings.entities.crabbersdelight]
 				crab = true
+
+			[light_sources.settings.entities.vinery]
+				mule = true
+
+			[light_sources.settings.entities.meadow]
+				wooly_cow = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
 
