@@ -1,0 +1,103 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				boat = true
+				player = true
+				squid = true
+				spider = true
+				tropical_fish = true
+				cod = true
+				item = true
+				bee = true
+				creeper = true
+				chicken = true
+				glow_squid = true
+				zombie = true
+				skeleton = true
+				drowned = true
+				dolphin = true
+				pufferfish = true
+				enderman = true
+				zombie_villager = true
+				trident = true
+				witch = true
+				bat = true
+				rabbit = true
+				sheep = true
+				axolotl = true
+				slime = true
+
+			[light_sources.settings.entities.alexsmobs]
+				flying_fish = true
+				cachalot_whale = true
+				blue_jay = true
+				skunk = true
+				cockroach = true
+				murmur = true
+				frilled_shark = true
+				centipede_head = true
+				centipede_body = true
+				centipede_tail = true
+				underminer = true
+				fly = true
+				giant_squid = true
+				skreecher = true
+				murmur_head = true
+				cachalot_echo = true
+
+			[light_sources.settings.entities.crittersandcompanions]
+				sea_bunny = true
+				dragonfly = true
+				dumbo_octopus = true
+				leaf_insect = true
+
+			[light_sources.settings.entities.ambientadditions]
+				harlequin_shrimp = true
+				chocolate_chip_starfish = true
+				shame_faced_crab = true
+				veiled_chameleon = true
+				rabbit_snail = true
+				yeti_crab = true
+
+			[light_sources.settings.entities.exoticbirds]
+				pigeon = true
+				swan = true
+				heron = true
+				cassowary = true
+				bluejay = true
+				hummingbird = true
+				peafowl = true
+				cardinal = true
+				kiwi = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.naturalist]
+				lizard = true
+				butterfly = true
+				finch = true
+				cardinal = true
+				firefly = true
+
+			[light_sources.settings.entities.alexs_herps_]
+				ocean_snail = true
+				swamp_snail = true
+				snail = true
+				cave_gecko = true
+
+			[light_sources.settings.entities.fallingtrees]
+				tree = true
+
+			[light_sources.settings.entities.crabbersdelight]
+				crab = true
+

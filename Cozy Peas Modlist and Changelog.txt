@@ -1,6 +1,181 @@
 Cozy Peas Modlist and Changelog
 ---------------------------------------------------------
 
+
+--------------------------------------------------------------------- 
+Cozy Peas Modpack Modlist and Changelog 
+    Date : 2025/01/11
+    Pack Version :  0.3.2.0
+    Forge Version : 47.3.22 
+---------------------------------------------------------------------
+
+-- Mod Freeze List --
+--------------------
+
+
+-- Added Mods --
+------------------
+Reroll Enchants (by tfarecnim)
+
+
+-- Updated Mods --
+------------------
+Delightful
+	- 3.6.1 to 3.6.2
+InsaneLib
+	- 1.16.0 to 1.16.1
+Fusion (Connected Textures)
+	- 1.1.1 to 1.2.2
+Guard Villagers
+	- 1.6.9 to 1.6.10
+JEI
+	- 15.20.0.105 to 15.20.0.106
+[Let's Do] Blooming Nature
+	- 1.0.9 to 1.0.10
+[Let's Do] Vinery
+	- 1.4.34 to 1.4.36
+Moonlight Lib
+	- 2.13.46 to 2.13.48
+Sophisticated Backpacks
+	- 3.21.2.1163 to 3.22.1.1167
+Sophisticated Core
+	- 1.0.8.828 to 1.1.2.834
+Sophisticated Storage
+	- 1.0.10.1007 to 1.1.4.1021
+
+
+-- Removed Mods --
+------------------
+
+
+-- Config Changes --
+--------------------
+
+
+-- Data Changes --
+------------------
+
+
+-- Script Changes --
+--------------------
+Added recipe processes for creating wither skeleton skulls from wither bones.
+
+
+-- Asset Changes --
+-------------------
+
+
+--  Quest Changes --
+--------------------
+
+
+
+
+
+
+--------------------------------------------------------------------- 
+Cozy Peas Modpack Modlist and Changelog 
+    Date : 2024/12/27
+    Pack Version :  0.3.1.0
+    Forge Version : 47.3.22 
+---------------------------------------------------------------------
+
+-- Added Mods --
+------------------
+Ender Tendril (by SilentChaos512)
+Ryoamic Lights (by TexTrue) - (Fixes broken Curious Lamps)
+SilentLib (by SilentChaos512) - dependency for Ender Tendril
+
+-- Updated Mods --
+------------------
+Forge 
+	- 47.3.12 to 47.3.22
+Amendments
+	- 1.2.12 to .1.2.14
+Balm
+	- 1.7.3.9 to 1.7.3.10
+Citadel
+	- 2.6.0 to 2.6.1
+Creative Core
+	- 2.12.26 to 2.12.28
+Curios API
+	- 5.11.0 to 5.11.1
+ForgeEndertech
+	- 11.1.50-build0890 to 11.1.60-build0980
+Forgery
+	- 3.5.1 to 3.5.5
+GeckoLib
+	- 4.4.9 to 4.7
+Guard Villagers
+	- 1.6.7 to 1.6.9
+IchunUtil
+	- 1.0.0 to 1.0.3
+Immersive UI
+	- 0.2.2 to 0.3.0
+InsaneLib
+	- 1.15.1 to 1.16.0
+Jade
+	- 11.11.1 to 11.12.2
+Kiwi
+	- 11.8.20 to 11.8.28
+[Let's Do Addon] Compat
+	- 1.4.2 to 2.0.3
+LittleTiles
+	- 1.6.0-pre141 to -pre151
+ModernFix
+	- 5.19.7 to 5.20.0
+Moonlight Lib
+	- 2.13.39 to 2.13.46
+Naturalist Delight
+	- 1.0.3 to 1.0.3.1
+Oculus
+	- 1.7.0 to 1.8.0
+Radiant Gear
+	- 2.1.5 to 2.2.0
+Sophisticated Backpacks
+	- 3.20.17.1150 to 3.21.2.1163
+Sophisticated Core
+	- 1.0.1.809 to 1.0.8.828
+Sophisticated Storage
+	- 1.0.2.985 to 1.0.10.1007
+SuperMartijn642's Core Lib
+	- 1.1.17a to 1.1.18
+Tom's Simple Storage
+	- 1.6.8 to 1.6.9
+XaeroPlus
+	- 2.24.8 to 2.25
+Xaero's Minimap
+	- 24.6.1 to 24.7.1
+
+	
+-- Removed Mods --
+------------------
+Borderless Window - (Duplicate feature of Embeddium++)
+Sodium/Embeddium Dynamic Lights - (Broken with Curious Lamps)
+
+
+-- Config Changes --
+--------------------
+
+
+-- Data Changes --
+------------------
+Changed ender tendril drops to ender pearls.
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+--  Quest Changes --
+--------------------
+
+
+
 --------------------------------------------------------------------- 
 Cozy Peas Modpack Modlist and Changelog 
     Date : 2024/12/15
