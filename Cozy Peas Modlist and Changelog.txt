@@ -4,52 +4,452 @@ Cozy Peas Modlist and Changelog
 
 --------------------------------------------------------------------- 
 Cozy Peas Modpack Modlist and Changelog 
-    Date : 2025/01/11
-    Pack Version :  0.3.2.0
-    Forge Version : 47.3.22 
+    Date : 2025/06/02
+    Pack Version :  0.3.3.1
+    Forge Version : 47.4.0
+---------------------------------------------------------------------
+
+
+-- Mod Freeze List --
+--------------------
+Chloride 1.7.0 (1.7.1 won't download correctly)
+RightClickHarvest 3.2.5 (newer version requires JamLib dependency that won't download correctly)
+	
+-- Removed Mods --
+------------------
+
+
+-- Added Mods --
+------------------
+(needs a recycle mod)
+
+
+-- Updated Mods --
+------------------
+Balm
+	- 7.3.30 to 7.3.31
+Create:Copycats+
+	- 3.0.0 to 3.0.1
+Curious Lanterns
+	- 1.3.6 to 1.3.7
+Farmer's Delight
+	- 1.2.8 to 1.2.7
+Forgery
+	- 3.6.1 to 3.6.2
+InsaneLib
+	- 1.20.2 to 1.21.1
+LittleTiles
+	- pre159 to pre161
+ModernFix
+	- 5.23.0 to 5.23.1
+Moonlight Lib
+	- 2.14.1 to 2.14.4
+Sophisticated Series
+	Backpacks
+		- 3.23.18.1247 to 3.23.19.1251
+	Core
+		- 1.2.66.997 to 1.2.69.1005
+	Storage
+		- 1.3.46.1160 to 1.3.49.1167
+
+	
+	
+-- Config Changes --
+--------------------
+
+
+-- Data Changes --
+------------------
+
+
+-- Script Changes --
+--------------------
+
+
+
+-- Asset Changes --
+-------------------
+Change Menu Graphic background color and text location
+
+--  Quest Changes --
+--------------------
+
+
+--------------------------------------------------------------------- 
+Cozy Peas Modpack Modlist and Changelog 
+    Date : 2025/05/26
+    Pack Version :  0.3.3.0
+    Forge Version : 47.4.0
+---------------------------------------------------------------------
+
+
+-- Mod Freeze List --
+--------------------
+Chloride 1.7.0 (1.7.1 won't download correctly)
+RightClickHarvest 3.2.5 (newer version requires JamLib dependency that won't download correctly)
+	
+-- Removed Mods --
+------------------
+	Create: Balanced Flight (needs update to create 6)
+Create: Recycle Everything (closed source mcreator junk not updated to create 6)
+Euphoria Patches
+
+-- Added Mods --
+------------------
+(needs a recycle mod)
+
+
+-- Updated Mods --
+------------------
+Forge - 47.3.33 to 47.4.0
+Advanced Chimineys
+	- 10.1.16.0 to 10.1.18.0-build.13.18
+Alex's Mobs Interaction
+	- 4.3 to 5.4
+Amendments
+	- 1.2.18 to 1.2.19
+Aquaculture 2
+	- 2.5.4 to 2.5.5
+Aquaculture Delight
+	- 1.1.0 to 1.1.1
+Balm
+	- 7.3.18 to 7.3.30
+Better Village
+	- 3.2.0 to 3.3.1
+Chloride
+	- 1.2.13 to 1.7.0
+Collective
+	- 7.93 to 8.3
+Connected Glass
+	- 1.1.12 to 1.1.13
+Crabber's Delight
+	- 1.1.7d to 1.1.7e
+Create
+	- 0.5.1j to 6.0.4
+Create: Copycats+
+	- 2.2.0 to 3.0.0
+Create:Food
+	- 1.1.8 to 1.1.11
+Create:Slice & Dice
+	- 3.3.0 to 3.4.0
+Creative Core
+	- 2.12.31 to 2.12.32
+Curios API
+	- 5.12.1 to 5.14.1
+Curious Lanterns
+	- 1.3.3 to 1.3.6
+Dark Mode Everywhere
+	- 1.2.3 to 1.2.4
+Double Doors
+	- 6.2 to 7.0
+Dramatic Doors
+	- 3.2.9_1 to 3.3.1
+Drippy Loading Screen
+	- 3.0.11 to 3.0.12
+Entity Culling
+	- 1.7.3 to 1.7.4
+Exposure
+	- 1.7.9 to 1.7.15
+Extreme Sound Muffler
+	-  3.48 to 3.49.1
+FancyMenu
+	- 3.4.6 to 3.5.2
+Fast Suite
+	- 5.0.1 to 5.1.0
+Forgery
+	- 3.5.6 to 3.6.1
+Framework
+	- 0.7.12 to 0.7.15
+Fusion
+	- 1.2.4 to 1.2.7b
+GeckoLib
+	- 4.7 to 4.7.1.2
+Geophilic
+	- 3.2 to 3.4.1
+In Control!
+	- 9.2.11 to 9.3.2
+InsaneLib
+	- 1.18.3 to 1.20.2
+Jade
+	- 11.12.3 to 11.13.1
+Jade Addons
+	- 5.3.1 to 5.5.0
+Kiwi
+	- 11.8.30 to 11.8.31
+KubeJS Create
+	- 2001.2.5-build.2 to 2001.3.0-build.8
+[Let's Do] Series
+	Bakery - Farm&Charm Compat
+		- 2.0.3 to 2.0.5
+	Beachparty
+		- 1.1.5 to 2.0.2
+	Brewery - Farm&Charm Compat
+		- 2.0.3 to 2.0.5
+	Candlelight -Farm&Charm Compat
+		- 2.0.2 to 2.0.4
+	Farm & Charm
+		- 1.0.4 to 1.0.9
+	HerbalBrews
+		- 1.0.11 to 1.0.12
+	Meadow
+		- 1.3.23 to 1.3.25
+	Vinery
+		- 1.4.38 to 1.4.39
+[Let's Do Addon] Compat
+	- 2.1.0 to 2.2.3
+LittleTiles
+	- pre156 to pre159
+LootJS
+	- 2.12.0 to 2.13.0
+Lootr
+	- 0.7.35.90 to 0.7.35.91
+Macaw's Series
+	Fences and Walls
+		- 1.1.2 to 1.2.0
+	Lights and Lamps
+		- 1.1.0 to 1.1.2
+	Roofs
+		- 2.3.1 to 2.3.2
+ModernFix
+	- 5.20.2 to 5.23.0
+Moonlight Lib
+	- 2.13.70 to 2.14.1
+Moving Elevators
+	- 1.4.10 to 1.4.11
+Mysterious Mountain Lib
+	- 1.5.18 to 1.5.21
+Naturalist
+	- 4.0.3 to 5.0pre3
+OctoLib
+	- 0.4.2 to 0.5.0.1
+Placebo
+	- 8.6.2 to 8.6.3
+Polymorph
+	- 0.49.8 to 0.49.10
+Polytone
+	- 3.2.9 to 3.3.8
+Puzzles Lib	
+	- 8.1.25 to 8.1.32
+RightClickHarvest
+	- 3.2.3 to 3.2.5
+Serene Seasons
+	- 9.1.0.1 to 9.1.0.2
+Smarter Farmers
+	- 2.1.0 to 2.1.2
+Sooty Chimneys
+	- 1.2.1 to 1.2.4
+Sophisticated Series
+	Backpacks
+		- 3.23.6.1210 to 3.23.18.1247
+	Core
+		- 1.2.20.894 to 1.2.66.997
+	Storage
+		- 1.3.9.1075 to 1.3.46.1160
+Soul fire'd
+	- 4.0.10 to 4.0.11
+Sound Physics Remastered
+	- 1.4.8 to 1.4.10
+Stack Refill
+	- 4.6 to 4.7
+Supplementaries
+	- 3.1.18 to 3.1.30
+Tom's Simple Storage
+	- 1.7.0 to 1.7.1
+Waystones
+	- 14.1.10 to 14.1.13
+What Are They Up To
+	- 1.1.3 to 1.2.3
+XaeroPlus
+	- 2.26.3 to 2.26.11
+Xaero's World Map	
+	- 1.39.4 to 1.39.9
+Xaero's Minimap
+	- 25.1.0 to 25.2.6
+YetAnotherConfigLib
+	- 3.6.2 to 3.6.6
+
+	
+	
+-- Config Changes --
+--------------------
+alexsmobsinteraction-client.toml
+	EFFECTS_REMINDER_ENABLED = false
+
+-- Data Changes --
+------------------
+/kubejs/server_scripts/src/letsdo/letsdo_recipes.js
+	changed wheat block to wet hay block
+
+-- Script Changes --
+--------------------
+
+
+
+-- Asset Changes --
+-------------------
+
+
+--  Quest Changes --
+--------------------
+
+
+
+--------------------------------------------------------------------- 
+Cozy Peas Modpack Modlist and Changelog 
+    Date : 2025/02/11
+    Pack Version :  0.3.2.1
+    Forge Version : 47.3.33 
 ---------------------------------------------------------------------
 
 -- Mod Freeze List --
 --------------------
 
+	
+-- Removed Mods --
+------------------
+Default Options (Fails to set multiple keybinds on first launch.)
+Serene Seasons Fix
 
 -- Added Mods --
 ------------------
 Reroll Enchants (by tfarecnim)
+Your Options Shall Be Yours (YOSBY) (by ElocinDev)
 
 
 -- Updated Mods --
 ------------------
+Forge - 47.3.22 to 47.3.33
+	Advanced Chimineys
+	- 10.1.15.0 to 10.1.16.0
+	Amendments
+	- 1.2.14 to 1.2.18
+Aquaculture 2
+	- 2.5.3 to 2.5.4
+	Aquaculture Delight
+	- 1.0.0 to 1.1.0
+Balm
+	- 7.3.10 to 7.3.18
+Client Tweaks
+	- 11.1.0 to 11.1.3
+	Cobweb
+	- 1.0.0 to 1.0.1
+Collective
+	- 7.87 to 7.93
+	Corpse
+	- 1.0.19 to 1.0.20
+	Create: Coppycats+
+	- 2.1.4 to 2.2.0
+	Create: Food
+	- 1.1.7 to 1.1.8
+	CreativeCore
+	- 2.12.28 to 2.12.31
+Curios API
+	- 5.11.1 to 5.12.1
 Delightful
-	- 3.6.1 to 3.6.2
-InsaneLib
-	- 1.16.0 to 1.16.1
-Fusion (Connected Textures)
-	- 1.1.1 to 1.2.2
-Guard Villagers
+	- 3.6.1 to 3.7.1
+	Double Doors
+	- 5.9 to 6.2
+	Dramatic Doors
+	- 3.2.8 to 3.2.9_1
+	Drippy Loading Screen
+	- 3.0.9 to 3.0.11
+Entity Culling
+	- 1.7.2 to 1.7.3
+	Euphoria Patches
+	- 1.4.3-r5.3 to 1.5.2-r5.4
+	Exposure
+	- 1.7.7 to 1.7.9
+Falling Trees (Panda's)
+	- 0.12.7 to 0.13.2
+Fancy Menu
+	- 3.3.2 to 3.4.6
+	Farmer's Delight
+	- 1.2.6 to 1.2.7
+	Forgery
+	- 3.5.5 to 3.5.6
+	Fusion (Connected Textures)
+	- 1.1.1 to 1.2.4
+	Geophilic
+	- 3.1.5 to 3.2
+	Guard Villagers
 	- 1.6.9 to 1.6.10
-JEI
+	Immersive Weathering
+	- 2.0.3 to 2.0.5
+InsaneLib
+	- 1.16.0 to 1.18.3
+	Inventory Essentials
+	- 8.2.6 to 8.2.7
+	Jade
+	- 11.12.2 to 11.12.3
+	JEI
 	- 15.20.0.105 to 15.20.0.106
-[Let's Do] Blooming Nature
-	- 1.0.9 to 1.0.10
-[Let's Do] Vinery
-	- 1.4.34 to 1.4.36
+	Kiwi
+	- 11.8.28 to 11.8.30
+	[Let's Do] Blooming Nature
+	- 1.0.9 to 1.0.12
+[Let's Do] Compat
+	- 2.0.0. to 2.1.0
+	[Let's Do] Herbal Brews
+	- 1.0.8 to 1.0.11
+	[Let's Do] Meadow
+	- 1.3.19 to 1.3.23
+	[Let's Do] Vinery
+	- 1.4.34 to 1.4.38
+	LittleTiles
+	- 1.6.0-pre151 to pre156
+	Macaw's Doors
+	- 1.1.1 to 1.1.2
+Macaw's Paths and Pavings
+	- 1.0.5 to 1.1.0
+	ModernFix
+	- 5.20.0 to 5.20.2
 Moonlight Lib
-	- 2.13.46 to 2.13.48
+	- 2.13.46 to 2.13.70
+Mysterious Mountain Lib
+	- 1.5.17 to 1.5.18
+	Naturalist Delight
+	- 1.0.3.1 to 1.0.3.2
+PandaLib
+	- 0.4.2 to 0.5.2
+	Patchouli
+	- 84 to 84.1
+Polytone
+	- 2.3.3 to 3.2.9
+	Rhino
+	- 2001.2.3-build.6 to build.10
+Serene Seasons
+	- 9.1.0.0 to 9.1.0.1
+	Scaffolding Drops Nearby
+	-1.3.3 to 1.3.4
 Sophisticated Backpacks
-	- 3.21.2.1163 to 3.22.1.1167
+	- 3.21.2.1163 to 3.23.5.1210
 Sophisticated Core
-	- 1.0.8.828 to 1.1.2.834
-Sophisticated Storage
-	- 1.0.10.1007 to 1.1.4.1021
-
-
--- Removed Mods --
-------------------
+	- 1.0.8.828 to 1.2.20.894
+	Sophisticated Storage
+	- 1.0.10.1007 to 1.3.9.1075
+	Soul Fire'd
+	- 4.0.6 to 4.0.10
+	Stack Refill
+	- 4.5 to 4.6
+Supplementaries
+	- 3.1.11 to 3.1.18
+	Tom's Simple Storage Mod
+	- 1.6.9 to 1.7.0
+	Villager Names
+	- 8.1 to 8.1
+Waystones
+	- 14.1.6 to 14.1.10
+	XaeroPlus
+	- 2.25 to 2.26.3
+	Xaero's Minimap
+	- 24.7.1 to 25.1.0
+	Xaero's World Map
+	- 1.39.2 to 1.39.4 (alpha)
 
 
 -- Config Changes --
 --------------------
+enabled built-in create resource packs
 
 
 -- Data Changes --
@@ -68,9 +468,6 @@ Added uncommon skull drop to skeletons to facilitate wither skull crafting proce
 
 --  Quest Changes --
 --------------------
-
-
-
 
 
 

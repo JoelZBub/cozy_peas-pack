@@ -13,6 +13,8 @@
 		"Anchor Distance Multiplier (0d -> 10d, default 1d)" = 1.0
 		"Disable Fall Damage When Wearing Ascended Ring" = true
 		"Disable Fall Damage Near Flight Anchor" = true
+		#Range: > 0
+		"Anchor stress impact" = 256
 
 	[Settings."Enhanced Elytra Mechanics"]
 		"Disable Elytra Damage" = true

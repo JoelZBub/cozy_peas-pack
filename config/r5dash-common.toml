@@ -1,0 +1,9 @@
+#the number of ticks dash is on cooldown for. 20 ticks = 1 second.
+#Range: > 0
+dashCooldown = 60
+#show dash cooldown
+showDashCooldown = true
+#the amount of exhaustion caused by dashing (running + jumping is 0.2 in vanilla)
+#Range: 0.0 ~ 1.7976931348623157E308
+dashFoodExhaustion = 0.2
+

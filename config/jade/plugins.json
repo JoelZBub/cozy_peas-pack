@@ -52,12 +52,39 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
+  "jade": {
+    "coordinates.rel": false,
+    "distance": false,
+    "block_face": false,
+    "coordinates": false,
+    "registry_name": "OFF",
+    "mod_name": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "platforms": {
+    "hud": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
   },
   "exposure": {
     "lightroom": true,
     "photograph_frame": true
+  },
+  "jadeaddons.lootr": {
+    "info": true
   },
   "shetiphiancore": {
     "hud.rgb16": true,
@@ -72,35 +99,10 @@
   "supplementaries": {
     "hat_stand": true
   },
-  "jade": {
-    "coordinates.rel": false,
-    "distance": false,
-    "block_face": false,
-    "coordinates": false,
-    "registry_name": "OFF",
-    "mod_name": true
-  },
-  "create": {
-    "filter": true,
-    "backtank_capacity": true,
-    "goggles.requires_goggles": true,
-    "goggles": false,
-    "blaze_burner": true,
-    "exact_block": true,
-    "crafting_blueprint": true,
-    "goggles.detailed": false,
-    "placard": true
-  },
   "waystones": {
     "waystone": true
   },
-  "lootr": {
-    "info": true
-  },
   "corpse": {
     "corpse": true
-  },
-  "platforms": {
-    "hud": true
   }
 }

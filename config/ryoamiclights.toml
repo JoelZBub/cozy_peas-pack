@@ -41,6 +41,14 @@
 				zombified_piglin = true
 				skeleton_horse = true
 				experience_orb = true
+				lightning_bolt = true
+				villager = true
+				cat = true
+				iron_golem = true
+				horse = true
+				egg = true
+				glow_item_frame = true
+				salmon = true
 
 			[light_sources.settings.entities.alexsmobs]
 				flying_fish = true
@@ -59,6 +67,9 @@
 				skreecher = true
 				murmur_head = true
 				cachalot_echo = true
+				seagull = true
+				terrapin = true
+				catfish = true
 
 			[light_sources.settings.entities.crittersandcompanions]
 				sea_bunny = true
@@ -66,6 +77,8 @@
 				dumbo_octopus = true
 				leaf_insect = true
 				otter = true
+				ferret = true
+				koi_fish = true
 
 			[light_sources.settings.entities.ambientadditions]
 				harlequin_shrimp = true
@@ -95,12 +108,14 @@
 				finch = true
 				cardinal = true
 				firefly = true
+				bass = true
 
 			[light_sources.settings.entities.alexs_herps_]
 				ocean_snail = true
 				swamp_snail = true
 				snail = true
 				cave_gecko = true
+				fire_flies = true
 
 			[light_sources.settings.entities.fallingtrees]
 				tree = true
@@ -110,10 +125,20 @@
 
 			[light_sources.settings.entities.vinery]
 				mule = true
+				wandering_winemaker = true
 
 			[light_sources.settings.entities.meadow]
 				wooly_cow = true
 
 			[light_sources.settings.entities.create]
 				stationary_contraption = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.goblintraders]
+				goblin_trader = true
+
+			[light_sources.settings.entities.handcrafted]
+				fancy_painting = true
 
